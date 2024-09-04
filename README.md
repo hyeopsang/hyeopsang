@@ -3,7 +3,7 @@
 ![intro](https://github.com/user-attachments/assets/23ba31da-5c11-4a9a-9c7d-578ab404a960)
 
 ---
-
+<h2>Stack</h2>
 <div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,6 +18,7 @@
 
 
 ---
+<h2>Conacts</h2>
 
 ![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
 ![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
