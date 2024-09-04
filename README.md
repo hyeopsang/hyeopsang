@@ -16,8 +16,10 @@
 
 </div>
 
+
 ---
 
-[KakaoTalk](http://qr.kakao.com/talk/YWhw8ZFouQNa6Lj9a2FU80YI0ZE-) [Velog](https://velog.io/@hyeopsang/posts).
+![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
+![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
 
 </div>
