@@ -2,10 +2,6 @@
 
 ![intro](https://github.com/user-attachments/assets/23ba31da-5c11-4a9a-9c7d-578ab404a960)
 
-### Welcome to My GitHub Profile!
-
-I'm a passionate developer with expertise in modern web technologies. Here are some of the technologies I work with:
-
 ---
 
 <div>
@@ -22,6 +18,6 @@ I'm a passionate developer with expertise in modern web technologies. Here are s
 
 ---
 
-Feel free to connect with me on [KakaoTalk](http://qr.kakao.com/talk/YWhw8ZFouQNa6Lj9a2FU80YI0ZE-) or check out my latest posts on [Velog](https://velog.io/@hyeopsang/posts).
+[KakaoTalk](http://qr.kakao.com/talk/YWhw8ZFouQNa6Lj9a2FU80YI0ZE-) [Velog](https://velog.io/@hyeopsang/posts).
 
 </div>
