@@ -20,7 +20,7 @@
 
 
 ---
-<h2>Conacts</h2>
+<h2>Contact</h2>
 
 ![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)
 ![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)
