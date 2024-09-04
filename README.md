@@ -3,8 +3,8 @@
 ![intro](https://github.com/user-attachments/assets/23ba31da-5c11-4a9a-9c7d-578ab404a960)
 
 ---
-<h2>Stack</h2>
 <div>
+<h2>Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
