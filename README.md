@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1d3557&height=300&section=header&text=SangHyeop%20GitHub&fontSize=50&fontAlign=50&fontColor=ffffff&desc=💻%30Front-End%20Developer&descSize=30&descAlign=50&descAlignY=65&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:48cae4,100:03045e&height=300&section=header&text=SangHyeop%20GitHub&fontSize=50&fontAlign=50&fontColor=ffffff&desc=💻%20Front-End%20Developer&descSize=30&descAlign=50&descAlignY=65&descColor=ffffff)
 
 
 
