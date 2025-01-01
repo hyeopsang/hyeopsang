@@ -1,6 +1,7 @@
 <div align="center">
 
-![intro](https://github.com/user-attachments/assets/23ba31da-5c11-4a9a-9c7d-578ab404a960)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SangHyeop%20GitHub&fontSize=90&desc=💻%20Front-End%20Developer&descSize=30&descAlignY=65&descAlign=62)
+
 
 ---
 <div>
