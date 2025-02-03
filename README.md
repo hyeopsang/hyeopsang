@@ -6,7 +6,6 @@
 
   
 <h3>안녕하세요 👋<br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h3>
-
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="23">
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="23">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="23">
