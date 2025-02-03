@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/1ddcdae7-8d58-4b9f-8065-4202cb3ef256" height="200">
-
+<img src="https://github.com/user-attachments/assets/31e821f4-a641-4a57-bbb1-80bd62781c13" height="200">
 
 <div>
 <h2>Stack</h2>
