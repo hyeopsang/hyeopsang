@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:48cae4,100:03045e&height=300&section=header&text=SangHyeop%20GitHub&fontSize=50&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=💻%20Front-End%20Developer&descSize=20&descAlign=50&descAlignY=55&descColor=ffffff)
+![header][Frame 3-min](https://github.com/user-attachments/assets/6cecb36f-38ef-4c43-a3bf-e05f861d2135)
 
 
 
