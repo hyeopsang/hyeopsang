@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hello](https://github.com/user-attachments/assets/eb55e2b8-d75d-491b-9f7a-9ab82f74900c)
+![Hello](https://github.com/user-attachments/assets/1ddcdae7-8d58-4b9f-8065-4202cb3ef256)
 
 <div>
 <h2>Stack</h2>
