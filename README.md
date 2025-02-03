@@ -5,7 +5,7 @@
 <div>
 
   
-<p>프론트엔드 개발자로 일을 하기 위해 공부 중입니다.</p>
+<h3>안녕하세요. 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다.</h3>
   
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
