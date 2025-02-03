@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
 
 <img src="https://github.com/user-attachments/assets/31e821f4-a641-4a57-bbb1-80bd62781c13" height="200">
 
-<div>
+<div align="left">
 
   
 <h3>안녕하세요 👋<br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h3>
