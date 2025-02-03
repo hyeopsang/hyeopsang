@@ -16,11 +16,9 @@
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="23">
 
 </div>
-
-___
-
+#
 <div align="left">
-<h3 align="left" style="font-weight: bold; color: #AA009F;">Nettee Space🪐</h3>
+<h3 align="left" style="font-weight: bold; color: #AA009F;">Nettee Space🪐
 <p>네티라는 이름을 가진 스터디로 팀 프로젝트를 하면서 그냥 코드만 치는 것이 아닌<br/> 페어를 통해 서로 부족한 부분을 채워주고 같이 성장해 나가는 스터디 입니다.</p>
 </div>
 
