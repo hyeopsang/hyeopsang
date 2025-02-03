@@ -3,6 +3,8 @@
 <img src="https://github.com/user-attachments/assets/31e821f4-a641-4a57-bbb1-80bd62781c13" height="200">
 
 <div>
+<hr/>
+  
 <p>프론트엔드 개발자로 일을 하기 위해 공부 중입니다.</p>
   
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
