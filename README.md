@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://github.com/user-attachments/assets/bbf3b63b-0618-47d9-b654-d01c775b60aa)
-
+![header](https://github.com/user-attachments/assets/eb55e2b8-d75d-491b-9f7a-9ab82f74900c)
 
 ---
 <div>
