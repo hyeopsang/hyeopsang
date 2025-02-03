@@ -5,7 +5,7 @@
 <div align="left">
 
   
-<h3>안녕하세요 👋<br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h2>
+<h3>안녕하세요 👋<br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h3>
 
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="23">
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="23">
@@ -18,7 +18,7 @@
 </div>
 
 <div align="left">
-<h2>🪐Nettee Space</h2>
+<h3>🪐Nettee Space</h3>
 <p>네티라는 이름을 가진 스터디로 팀 프로젝트를 하면서 그냥 코드만 치는 것이 아닌<br/> 페어를 통해 서로 부족한 부분을 채워주고 같이 성장해 나가는 스터디 입니다.</p>
 </div>
 
