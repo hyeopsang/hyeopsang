@@ -2,7 +2,6 @@
 
 ![header](https://github.com/user-attachments/assets/eb55e2b8-d75d-491b-9f7a-9ab82f74900c)
 
----
 <div>
 <h2>Stack</h2>
   
