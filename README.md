@@ -1,8 +1,6 @@
 <div align="center">
 
-![Hello](https://github.com/user-attachments/assets/1ddcdae7-8d58-4b9f-8065-4202cb3ef256)
-
-<img src="https://github.com/user-attachments/assets/1ddcdae7-8d58-4b9f-8065-4202cb3ef256" height="100">
+<img src="https://github.com/user-attachments/assets/1ddcdae7-8d58-4b9f-8065-4202cb3ef256" height="200">
 
 
 <div>
