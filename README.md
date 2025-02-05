@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/45b58974-83d7-4c1d-95db-f0d19207cb92" height="250">
 
-<div align="left">
+<div align="center">
 
   
 <h3>안녕하세요 👋<br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h3>
