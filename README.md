@@ -7,21 +7,14 @@
   
 <h3>안녕하세요 👋<br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h3>
 
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25">
-![Frame 12](https://github.com/user-attachments/assets/18b1c8ab-16fd-4ea1-84b9-df731e666789)
-![Frame 11](https://github.com/user-attachments/assets/a7e04939-845d-44ec-81c8-a5d247ab2c4b)
-![Frame 10](https://github.com/user-attachments/assets/21349b29-7f20-42d9-afd6-2eb0e3074a96)
-![Frame 8](https://github.com/user-attachments/assets/714dcbbd-47fb-4633-b58d-be355a7e08ce)
-![Frame 7](https://github.com/user-attachments/assets/72e772a3-e166-4b94-adcc-a4f6cc1db097)
-![Frame 6](https://github.com/user-attachments/assets/d5f9101e-97fc-4130-8596-6e2cd11de880)
-
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="23">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="23">
+<img src="https://github.com/user-attachments/assets/18b1c8ab-16fd-4ea1-84b9-df731e666789" height="25">
+<img src="hhttps://github.com/user-attachments/assets/a7e04939-845d-44ec-81c8-a5d247ab2c4b" height="25">
 <br/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23">
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="23">
+<img src="https://github.com/user-attachments/assets/21349b29-7f20-42d9-afd6-2eb0e3074a96" height="23">
+<img src="https://github.com/user-attachments/assets/714dcbbd-47fb-4633-b58d-be355a7e08ce" height="23">
+<br/>
+<img src="https://github.com/user-attachments/assets/72e772a3-e166-4b94-adcc-a4f6cc1db097" height="23">
+<img src="https://github.com/user-attachments/assets/d5f9101e-97fc-4130-8596-6e2cd11de880" height="23">
 
 </div>
 <h1></h1>
