@@ -6,15 +6,15 @@
 
 <h3>안녕하세요 👋<br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h3>
 
-<img src="https://github.com/user-attachments/assets/00c2fa22-a304-4ad2-91e8-5274f8f1d1ea" height="26">
+<img src="https://github.com/user-attachments/assets/00c2fa22-a304-4ad2-91e8-5274f8f1d1ea" height="28">
 
-<img src="https://github.com/user-attachments/assets/db124a3b-7bc0-410d-9acc-c7a66cfd381f" height="26">
+<img src="https://github.com/user-attachments/assets/db124a3b-7bc0-410d-9acc-c7a66cfd381f" height="28">
 <br/>
-<img src="https://github.com/user-attachments/assets/1864e0eb-001a-466e-b852-833dc664891b" height="26">
-<img src="https://github.com/user-attachments/assets/e19b2741-e03c-4184-819f-193b8f79af40" height="26">
+<img src="https://github.com/user-attachments/assets/1864e0eb-001a-466e-b852-833dc664891b" height="28">
+<img src="https://github.com/user-attachments/assets/e19b2741-e03c-4184-819f-193b8f79af40" height="28">
 <br/>
-<img src="https://github.com/user-attachments/assets/507d8d88-6ba2-4730-8e14-9bfb577f6459" height="26">
-<img src="https://github.com/user-attachments/assets/82c8b4cb-1b35-4f4a-8250-3747c043c9e5" height="26">
+<img src="https://github.com/user-attachments/assets/507d8d88-6ba2-4730-8e14-9bfb577f6459" height="28">
+<img src="https://github.com/user-attachments/assets/82c8b4cb-1b35-4f4a-8250-3747c043c9e5" height="28">
 
 </div>
 <h1></h1>
