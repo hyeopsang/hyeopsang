@@ -19,7 +19,7 @@
 </div>
 <h1></h1>
 <div align="left">
-<h2>study</h2>
+<p>study</p>
 <h3><a href="https://github.com/nettee-space">🪐Nettee Space</a></h3>
 <p>네티라는 이름을 가진 스터디로 팀 프로젝트를 하면서 그냥 코드만 치는 것이 아닌<br/> 페어를 통해 서로 부족한 부분을 채워주고 같이 성장해 나가는 스터디 입니다.</p>
 </div>
