@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3>안녕하세요 <img src="https://github.com/user-attachments/assets/664f1ce6-e16d-4a6e-8330-b3e4ff41ee1d" height="28"/><br/> 프론트엔드 개발자가 되기 위해 공부 중인 그로밋 입니다!</h3>
+<h3>안녕하세요 <img src="https://github.com/user-attachments/assets/664f1ce6-e16d-4a6e-8330-b3e4ff41ee1d" height="28"/><br/> 프론트엔드 개발자가 되기 위해 준비 중인 유상협 입니다!</h3>
 
 <img src="https://github.com/user-attachments/assets/00c2fa22-a304-4ad2-91e8-5274f8f1d1ea" height="28">
 
